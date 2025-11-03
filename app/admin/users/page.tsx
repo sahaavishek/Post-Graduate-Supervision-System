@@ -118,7 +118,7 @@ export default function AdminUsersPage() {
       email: "lisa.wong@utm.my",
       phone: "+60 13-345 6789",
       department: "Engineering",
-      students: 10,
+      students: 10, 
       capacity: 10,
       status: "full",
       joinedDate: "Mar 2018",
