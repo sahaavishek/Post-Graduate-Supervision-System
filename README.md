@@ -15,7 +15,7 @@ This is the backend implementation for the UTMGradient Post Graduate Supervision
 
 - **Next.js 16** - Framework
 - **Prisma** - ORM for database management
-- **PostgreSQL** - Database
+- **MySQL** - Database
 - **TypeScript** - Type safety
 - **bcryptjs** - Password hashing
 
